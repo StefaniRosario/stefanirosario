@@ -1,5 +1,8 @@
-### Hi there 👋
+### Oiii! Eu sou a Stefani Rosário
 
+- 🔭 Eu estou trabalhando como freelencer.
+- 📚 Estudando full-stack
+- 😄 Pronouns: ela/dela
 <!--
 **StefaniRosario/stefanirosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
